@@ -1,2 +1,2 @@
 # careers_website
-A career website to post different kind of job post for companies and apply as an applicant 
+Career Website is a platform where companies can post their Job Openings & Candidate all around the world can apply through this site.  
